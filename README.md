@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Jananikiran17
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ and others languages
+- 🌱 I’m currently learning java and others languages
